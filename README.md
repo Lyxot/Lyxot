@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi, I’m @Lyxot 👋
+
+- 🌱 I’m currently studying in high school.
+- 🏠 Mostly code in Kotlin、Java、Python.
+- 💕 I'm interested in gaming, coding and music.
+- ✨ [行雺のBlog](https://blog.hyli.xyz)
+- 🚀 Powered by love.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyxot&hide=issues&show_icons=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxot&layout=compact"/> 
 
 <!--
-**A-JiuA/A-JiuA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lyxot/Lyxot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
