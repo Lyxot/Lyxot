@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%E2%80%99m%20@Lyxot%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-<img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxot&layout=compact&hide=javascript,html,css&hide_border=true" />
+<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxot&layout=compact&hide=javascript,html,css&hide_border=true" />
 <p align="center">
   <h3> </h3>
 </p>
