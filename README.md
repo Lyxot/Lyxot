@@ -13,12 +13,8 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Lyxot&hide=issues&show_icons=true&hide_border=true&theme=transparent"/>
 <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxot&layout=compact&hide=javascript,html,css&hide_border=true&theme=transparent" />
 </br>
-<img align="center" src="https://skillicons.dev/icons?i=kotlin,java,py,cs,html,md,docker,linux,windows,androidstudio,vscode&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=kotlin,java,py,cs,cpp,rust,html,md,docker,linux,windows,androidstudio,vscode&theme=light" />
 </br>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 <!--
