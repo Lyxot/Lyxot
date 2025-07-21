@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%E2%80%99m%20@Lyxot%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-- 🌱 I’m currently studying in university.
+- 🌱 I’m currently a university student.
 - 🏠 Mostly code in Kotlin、Java、Python.
 - 💕 I'm interested in coding, gaming and music.
 - ✨ [行雺のBlog](https://blog.hyli.xyz)
