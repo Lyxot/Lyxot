@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Total Time: 1 hr 55 mins
+Total Time: 7 hrs 22 mins
 
-Markdown     1 hr 35 mins    ██████████████▒░░░░░░░░░░   58.00 %
-YAML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-TOML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Kotlin       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Go           2 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+Python       2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
+Markdown     1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+TOML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
