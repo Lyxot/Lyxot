@@ -9,13 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 18 August 2025 - To: 25 August 2025
+
 Total Time: 1 hr 55 mins
 
 Markdown     1 hr 35 mins    ██████████████▒░░░░░░░░░░   58.00 %
-Other        48 mins         ███████▒░░░░░░░░░░░░░░░░░   29.65 %
 YAML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 TOML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Kotlin       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
