@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Total Time: 27 hrs 20 mins
+Total Time: 35 hrs 22 mins
 
-Go               13 hrs 56 mins  ████████▒░░░░░░░░░░░░░░░░   32.90 %
-Markdown         5 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-YAML             2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Python           2 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-TOML             1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-JavaScript       1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Go               15 hrs 23 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
+Markdown         6 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+YAML             4 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Python           2 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+TypeScript       1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+TOML             1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
