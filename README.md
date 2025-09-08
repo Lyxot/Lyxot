@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 31 August 2025
+From: 31 August 2025 - To: 07 September 2025
 
-Total Time: 35 hrs 22 mins
+Total Time: 2 hrs 35 mins
 
-Go               15 hrs 23 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
-Markdown         6 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-YAML             4 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Python           2 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-TypeScript       1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-TOML             1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Markdown     53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Kotlin       50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Docker       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Dockerfile   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
