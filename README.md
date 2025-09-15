@@ -9,13 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2025 - To: 13 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
-Total Time: 41 mins
+Total Time: 2 hrs 19 mins
 
-Kotlin   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-TOML     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-JSON     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Kotlin            1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+TOML              46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+JSON              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
