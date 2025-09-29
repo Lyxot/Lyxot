@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2025 - To: 21 September 2025
+From: 21 September 2025 - To: 28 September 2025
 
-Total Time: 1 hr 35 mins
+Total Time: 6 hrs 3 mins
 
-Markdown     49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-TOML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-C++          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Go           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown      2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Kotlin        1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+XML           1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Python        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Image (svg)   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+YAML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
