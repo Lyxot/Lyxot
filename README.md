@@ -9,11 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2025 - To: 05 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
-Total Time: 0 secs
+Total Time: 4 hrs 46 mins
 
-XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++           1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Markdown      1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+XML           51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+HTML          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Kotlin        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Text          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
