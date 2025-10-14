@@ -3,7 +3,7 @@
 - 🏠 Mostly code in Kotlin、Java、Python.
 - 💕 I'm interested in coding, gaming and music.
 - ✨ [雲間録](https://hyli.xyz)
-- 🚀 Powered by love.
+- 🚀 Powered by love. [Sponsor me on Github](https://github.com/sponsors/Lyxot)
 
 ### 📊 Summary
 <!--START_SECTION:waka-->
