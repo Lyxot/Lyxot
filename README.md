@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2025 - To: 19 October 2025
+From: 19 October 2025 - To: 26 October 2025
 
-Total Time: 3 hrs 44 mins
+Total Time: 4 hrs 37 mins
 
-Markdown     2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-Go           56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-C++          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-go.mod       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C++           2 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Markdown      1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Text          51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Kotlin        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Objective-C   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+C             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
