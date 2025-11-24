@@ -9,16 +9,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 16 November 2025 - To: 23 November 2025
 
-Total Time: 19 hrs 50 mins
+Total Time: 5 hrs 47 mins
 
-Markdown     9 hrs 55 mins   ████████████░░░░░░░░░░░░░   48.21 %
-Kotlin       4 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-Python       3 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-C++          1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Kotlin        3 hrs 28 mins   ███████████████░░░░░░░░░░   60.13 %
+Markdown      50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+C++           48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Python        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+XML           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Objective-C   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+TOML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
