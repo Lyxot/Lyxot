@@ -9,17 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2025 - To: 23 November 2025
+From: 23 November 2025 - To: 30 November 2025
 
-Total Time: 5 hrs 47 mins
+Total Time: 13 hrs 35 mins
 
-Kotlin        3 hrs 28 mins   ███████████████░░░░░░░░░░   60.13 %
-Markdown      50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-C++           48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Python        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-XML           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Objective-C   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-TOML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Kotlin              8 hrs 31 mins   ███████████████░░░░░░░░░░   60.27 %
+YAML                2 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+TOML                56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+XML                 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Gradle Kotlin DSL   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+JSON                15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
