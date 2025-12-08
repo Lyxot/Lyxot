@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 30 November 2025 - To: 07 December 2025
 
-Total Time: 13 hrs 35 mins
+Total Time: 18 hrs 22 mins
 
-Kotlin              8 hrs 31 mins   ███████████████░░░░░░░░░░   60.27 %
-YAML                2 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
-TOML                56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-XML                 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Gradle Kotlin DSL   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-JSON                15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Kotlin                 12 hrs 49 mins  █████████████████▒░░░░░░░   69.54 %
+YAML                   2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+Markdown               2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+Python                 39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+TOML                   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+XML                    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
