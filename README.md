@@ -9,17 +9,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2025 - To: 21 December 2025
+From: 21 December 2025 - To: 28 December 2025
 
-Total Time: 33 hrs 50 mins
+Total Time: 27 hrs 33 mins
 
-Kotlin                 29 hrs 54 mins  ██████████████████████░░░   88.34 %
-Markdown               1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Python                 57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-YAML                   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-TOML                   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-XML                    9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Prolog                 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Kotlin                   22 hrs 53 mins  ████████████████████▓░░░░   82.79 %
+Markdown                 1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+TOML                     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+YAML                     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+HTML                     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python                   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Java Properties          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
