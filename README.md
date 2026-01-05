@@ -9,17 +9,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 28 December 2025
+From: 28 December 2025 - To: 04 January 2026
 
-Total Time: 27 hrs 33 mins
+Total Time: 27 hrs 30 mins
 
-Kotlin                   22 hrs 53 mins  ████████████████████▓░░░░   82.79 %
-Markdown                 1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-TOML                     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-YAML                     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-HTML                     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Python                   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Java Properties          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Kotlin           24 hrs 33 mins  ██████████████████████▒░░   89.27 %
+YAML             43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+TOML             41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Text             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Markdown         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+HTTP Request     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+C++              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
