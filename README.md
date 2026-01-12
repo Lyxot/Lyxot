@@ -9,17 +9,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-Total Time: 27 hrs 30 mins
+Total Time: 17 hrs 53 mins
 
-Kotlin           24 hrs 33 mins  ██████████████████████▒░░   89.27 %
-YAML             43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-TOML             41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Text             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Markdown         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-HTTP Request     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-C++              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Kotlin            13 hrs 21 mins  ██████████████████▓░░░░░░   74.66 %
+YAML              2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+Markdown          58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+TOML              32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Java Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Text              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Git Config        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
