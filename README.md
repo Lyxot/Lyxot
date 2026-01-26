@@ -9,17 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Total Time: 31 hrs 47 mins
+Total Time: 2 hrs 26 mins
 
-Kotlin            27 hrs 58 mins  ██████████████████████░░░   87.98 %
-Markdown          1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-YAML              54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-JavaScript        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-TOML              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-HTML              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Git Config        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Kotlin           2 hrs 17 mins   ███████████████████████▒░   93.58 %
+YAML             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
