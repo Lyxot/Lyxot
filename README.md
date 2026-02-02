@@ -9,14 +9,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2026 - To: 25 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
-Total Time: 2 hrs 26 mins
+Total Time: 27 hrs 13 mins
 
-Kotlin           2 hrs 17 mins   ███████████████████████▒░   93.58 %
-YAML             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Kotlin          10 hrs 6 mins   █████████▒░░░░░░░░░░░░░░░   37.11 %
+Objective-C     5 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+C++             4 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Python          2 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+Markdown        1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+JavaScript      45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Metal           27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
