@@ -9,17 +9,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2026 - To: 01 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
-Total Time: 27 hrs 13 mins
+Total Time: 11 hrs 54 mins
 
-Kotlin          10 hrs 6 mins   █████████▒░░░░░░░░░░░░░░░   37.11 %
-Objective-C     5 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-C++             4 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
-Python          2 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Markdown        1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-JavaScript      45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Metal           27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Kotlin          3 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   31.86 %
+C++             2 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
+Markdown        1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+JavaScript      1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Python          1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Text            36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Objective-C     33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:waka-->
