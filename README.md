@@ -9,17 +9,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2026 - To: 15 February 2026
+From: 15 February 2026 - To: 22 February 2026
 
-Total Time: 42 hrs 28 mins
+Total Time: 16 hrs 46 mins
 
-Kotlin           19 hrs 41 mins  ███████████▓░░░░░░░░░░░░░   46.19 %
-C++              10 hrs 24 mins  ██████░░░░░░░░░░░░░░░░░░░   24.43 %
-Python           3 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Cuda             2 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Markdown         2 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-JavaScript       1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-TOML             49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+C++              8 hrs 26 mins         ████████████▒░░░░░░░░░░░░   49.99 %
+Markdown         2 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Kotlin           2 hrs 16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Python           1 hr 56 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+Cuda             40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+GLSL             27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+JavaScript       15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
