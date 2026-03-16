@@ -9,17 +9,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2026 - To: 08 March 2026
+From: 08 March 2026 - To: 15 March 2026
 
-Total Time: 13 hrs 35 mins
+Total Time: 35 hrs 5 mins
 
-C++        9 hrs 30 mins         █████████████████▒░░░░░░░   69.99 %
-Python     1 hr 37 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Cuda       1 hr 9 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Markdown   1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-CMake      8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Text       4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Kotlin            12 hrs 15 mins        ████████▓░░░░░░░░░░░░░░░░   34.09 %
+C++               8 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
+Markdown          3 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+YAML              3 hrs 27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Python            2 hrs 53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+CMake             1 hr 21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+GLSL              42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
