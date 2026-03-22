@@ -1,6 +1,6 @@
 ## Lyxot
 - 🌱 I’m currently a university student.
-- 🏠 Mostly code in Kotlin、Java、Python.
+- 🏠 Mostly code in Kotlin、C++、Python.
 - 💕 I'm interested in coding, gaming and music.
 - ✨ [雲間録](https://hyli.xyz)
 - 🚀 Powered by love. [Sponsor me on Github](https://github.com/sponsors/Lyxot)
