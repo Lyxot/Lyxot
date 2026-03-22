@@ -9,17 +9,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 March 2026 - To: 15 March 2026
+From: 14 March 2026 - To: 21 March 2026
 
-Total Time: 35 hrs 5 mins
+Total Time: 24 hrs 31 mins
 
-Kotlin            12 hrs 15 mins        ████████▓░░░░░░░░░░░░░░░░   34.09 %
-C++               8 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-Markdown          3 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-YAML              3 hrs 27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-Python            2 hrs 53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-CMake             1 hr 21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-GLSL              42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Kotlin                 9 hrs 22 mins         █████████▓░░░░░░░░░░░░░░░   38.08 %
+C++                    4 hrs 10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+Markdown               4 hrs 8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Python                 2 hrs 27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+YAML                   1 hr 51 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Text                   42 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Prolog                 22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
