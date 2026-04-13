@@ -9,16 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 05 April 2026 - To: 12 April 2026
 
-Total Time: 10 hrs 33 mins
+Total Time: 1 hr 1 min
 
-Kotlin                 4 hrs 5 mins          █████████░░░░░░░░░░░░░░░░   36.58 %
-Markdown               2 hrs 57 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
-TOML                   57 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-C++                    56 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-YAML                   42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Cuda                   21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Markdown   1 hr 1 min            ███████████████████████▒░   93.06 %
 ```
 
 <!--END_SECTION:waka-->
