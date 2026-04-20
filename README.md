@@ -9,11 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2026 - To: 12 April 2026
+From: 12 April 2026 - To: 19 April 2026
 
-Total Time: 1 hr 1 min
+Total Time: 7 hrs 9 mins
 
-Markdown   1 hr 1 min            ███████████████████████▒░   93.06 %
+Cuda       2 hrs 38 mins         ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+C++        2 hrs 9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+Markdown   1 hr 20 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+C          33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Python     20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Git        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
