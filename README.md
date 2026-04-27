@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 19 April 2026 - To: 26 April 2026
 
-Total Time: 7 hrs 9 mins
+Total Time: 11 hrs 40 mins
 
-Cuda       2 hrs 38 mins         ███████▓░░░░░░░░░░░░░░░░░   30.78 %
-C++        2 hrs 9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
-Markdown   1 hr 20 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-C          33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Python     20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Git        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Cuda         4 hrs 19 mins         ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+C++          3 hrs 8 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
+Markdown     3 hrs 1 min           █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+Python       33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Git Config   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Rust         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
