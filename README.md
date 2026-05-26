@@ -24,8 +24,8 @@ JSON       4 mins                ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p>
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=Lyxot&hide=issues&show_icons=true&hide_border=true&theme=transparent"/>
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyxot&layout=compact&hide=javascript,html,css&hide_border=true&theme=transparent" />
+<img align="center" height="150" src="https://github-stats-extended.vercel.app/api?username=Lyxot&hide=issues&show_icons=true&hide_border=true&theme=transparent"/>
+<img align="center" height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyxot&layout=compact&hide=javascript,html,css&hide_border=true&theme=transparent" />
 </p>
 
 ### 🛠️ Tech stack
