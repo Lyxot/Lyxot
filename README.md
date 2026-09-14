@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
+From: 06 September 2026 - To: 13 September 2026
 
-Total Time: 91 hrs 41 mins
+Total Time: 90 hrs 4 mins
 
-Python        63 hrs 34 mins        ███████████████▓░░░░░░░░░   62.46 %
-Markdown      23 hrs 33 mins        █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-Text          1 hr 51 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-TypeScript    1 hr 34 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-JSON          19 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-C++           19 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python        48 hrs 6 mins         ████████████░░░░░░░░░░░░░   47.70 %
+Markdown      35 hrs 2 mins         ████████▓░░░░░░░░░░░░░░░░   34.74 %
+TypeScript    3 hrs 58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Bash          1 hr 26 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+C++           24 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JSON          19 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
